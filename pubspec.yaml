@@ -1,0 +1,9 @@
+name: ml_knn
+description: A K-Nearest Neighbors implementation in Dart
+version: 1.0.0
+
+environment:
+  sdk: '>=2.17.0 <4.0.0'
+
+dev_dependencies:
+  test: ^1.21.0
